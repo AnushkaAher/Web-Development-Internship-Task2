@@ -1,0 +1,2 @@
+# Web-Development-Internship-Task2
+Form validation is the one of the fundamental usage of Javascript. HTML forms can be easily validated using javascript logical approach. Jvascript provides a way to do server side validation.In this project i Have covered all types of HTML input elements which are validated using diiferent approaches. This project also illustrates the implementation of DOM API and its methods.
